@@ -16,7 +16,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.viana-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgov95@gmail.com)](mailto:rafaelgov95@gmail.com)
 
-I am Rafael Viana 😃. I am from Coxim/MS, applied computing student, and developer.
+I am Rafael Viana 😃. I am from Campo Grande/MS, applied computing student, and developer.
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **Angular**
