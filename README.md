@@ -19,9 +19,10 @@
 I am Rafael Viana 😃. I am from Campo Grande/MS, applied computing student, and developer.
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Angular**
+- Front-end development using **Angular, React**
 - Backend development using **NodeJS: EXPRESS, PYTHON:FLASK, JAVA: SPRING BOOT**
-- Creating scalable cloud architecture using **IBM Cloud, GOOGLE Cloud**
+- Creating scalable cloud architecture using **IBM Cloud, GOOGLE Cloud, AWS**
 - Data Cience using **Python**
+- Languages TOP **Python, C++, Java, Bash, JavaScript, TypeScript**
 
 
